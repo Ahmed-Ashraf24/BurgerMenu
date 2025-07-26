@@ -9,7 +9,6 @@
     android:background="#FAFAFA"
     tools:context=".Presentation.Screens.MainActivity">
 
-    <!-- Header -->
     <LinearLayout
         android:id="@+id/header_layout"
         android:layout_width="match_parent"
@@ -46,7 +45,6 @@
 
     </LinearLayout>
 
-    <!-- Category Tabs -->
     <HorizontalScrollView
         android:id="@+id/category_scroll"
         android:layout_width="match_parent"
@@ -120,7 +118,6 @@
         </LinearLayout>
     </HorizontalScrollView>
 
-    <!-- Menu Items RecyclerView with GridLayoutManager -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_menu_items"
         android:layout_width="match_parent"
@@ -136,7 +133,6 @@
         app:layout_constraintTop_toBottomOf="@id/category_scroll"
         tools:listitem="@layout/item_menu" />
 
-    <!-- Bottom Cart Summary -->
     <LinearLayout
         android:id="@+id/bottom_layout"
         android:layout_width="match_parent"
@@ -172,7 +168,7 @@
             android:textColor="#FFFFFF"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:gravity="center" /> <!-- Added gravity="center" -->
+            android:gravity="center" />
 
         <TextView
             android:id="@+id/tv_total_price"
