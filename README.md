@@ -8,8 +8,12 @@ A restaurant menu screen built in Java using MVVM architecture. The app connects
 
 | App Design | My App |
 |------------|--------|
-|| ![Design](screens/design_reference.png) | ![App](screens/my_screenshot.png) | |
+## 📸 Screenshots
 
+<p float="left">
+   <img src="screens/design_reference.png" width="250" />
+   <img src="screens/my_screenshot.png" width="250" />
+</p>
 ---
 
 ## 🔧 Tech Stack
