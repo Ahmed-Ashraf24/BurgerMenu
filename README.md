@@ -11,8 +11,9 @@ A restaurant menu screen built in Java using MVVM architecture. The app connects
 ## 📸 Screenshots
 
 <p float="left">
+      <img src="https://github.com/Ahmed-Ashraf24/BurgerMenu/blob/master/screens/design_reference.jpg" width="250" />
+
    <img src="https://github.com/Ahmed-Ashraf24/BurgerMenu/blob/master/screens/my_screenshot.png" width="250" />
-   <img src="https://github.com/Ahmed-Ashraf24/BurgerMenu/blob/master/screens/design_reference.jpg" width="250" />
 </p>
 ---
 
