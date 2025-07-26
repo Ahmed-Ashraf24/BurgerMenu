@@ -53,4 +53,10 @@ BurgerMenuApp/
 }
 5.Add matching images like burger_1.png in res/drawable/
 
-4.Build and run!
+4.Build and run! 
+
+
+📦 APK Release
+You can download the APK directly from the[ Releases page](https://github.com/Ahmed-Ashraf24/BurgerMenu/releases) without building the project manually.
+
+No need to clone or build — just download, install, and test.
