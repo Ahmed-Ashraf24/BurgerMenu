@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BurgerMenuApp</string>
+
+    <!-- Arabic strings -->
+    <string name="categories">التصنيفات</string>
+    <string name="best_offers">أفضل البروض</string>
+    <string name="new_items">مستجد</string>
+    <string name="spreadable_cheese">أجبان قابلة للدهن</string>
+    <string name="cheese">أجبان</string>
+    <string name="view_cart">عرض السلة</string>
+
+    <!-- Menu items -->
+    <string name="double_whopper">Double Whopper</string>
+    <string name="steakhouse_xl">Steakhouse XL</string>
+    <string name="chicken_steakhouse">Chicken Steakhouse</string>
+    <string name="steakhouse">Steakhouse</string>
+    <string name="quattro_cheese_grill">Quattro Cheese Grill</string>
+    <string name="quattro_cheese_chicken">Quattro Cheese Chicken</string>
+
+    <!-- Accessibility -->
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="food_image">Food Image</string>
+    <string name="burger_king_logo">Burger King Logo</string>
+    <string name="increase_quantity">Increase quantity</string>
+    <string name="decrease_quantity">Decrease quantity</string>
+</resources>
