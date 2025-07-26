@@ -83,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
             // Handle search action
         });
 
-        // Cart total click
         binding.bottomLayout.setOnClickListener(v -> {
             Toast.makeText(MainActivity.this, "الحساب الكلي : " + total, Toast.LENGTH_LONG).show();
         });
