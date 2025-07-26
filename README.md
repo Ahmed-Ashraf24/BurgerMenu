@@ -30,10 +30,15 @@ A restaurant menu screen built in Java using MVVM architecture. The app connects
 ## 📁 Project Structure
 BurgerMenuApp/
 ├── data/ # Remote data (Firestore)
+
 ├── domain/ # Repository interface
+
 ├── mapper/ # Mappers from Entity to UI model
+
 ├── presentation/ # UI and ViewModel
+
 ├── utility/ # UI model
+
 └── resources/ # XML, drawables, Firestore sample data
 
 ## 🚀 How to Run
