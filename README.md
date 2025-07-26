@@ -29,6 +29,7 @@ A restaurant menu screen built in Java using MVVM architecture. The app connects
 
 ## 📁 Project Structure
 BurgerMenuApp/
+
 ├── data/ # Remote data (Firestore)
 
 ├── domain/ # Repository interface
